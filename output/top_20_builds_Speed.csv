@@ -1,0 +1,21 @@
+Character,Kart,Speed,Acceleration,Weight,Handling,Score
+Bowser,Bowserbruiser,80,20,75,25,80.0
+Bowser,Tinytitan,80,20,75,25,80.0
+Donkey Kong,Bowserbruiser,77,24,72,28,77.0
+Wario,Bowserbruiser,77,24,72,28,77.0
+Wario,Tinytitan,77,24,72,28,77.0
+Wiggler,Bowserbruiser,77,24,72,28,77.0
+Cow,Bowserbruiser,77,24,72,28,77.0
+Donkey Kong,Tinytitan,77,24,72,28,77.0
+Cow,Tinytitan,77,24,72,28,77.0
+Wiggler,Tinytitan,77,24,72,28,77.0
+Waluigi,Tinytitan,77,24,72,28,77.0
+Waluigi,Bowserbruiser,77,24,72,28,77.0
+Bowser,Billdozer,75,25,75,25,75.0
+Bowser,Bighorn,75,25,75,25,75.0
+Bowser,W Twinchopper,75,30,60,35,75.0
+Donkey Kong,Billdozer,72,28,72,28,72.0
+Wiggler,Billdozer,72,28,72,28,72.0
+Wiggler,Bighorn,72,28,72,28,72.0
+Wario,Billdozer,72,28,72,28,72.0
+Wario,Bighorn,72,28,72,28,72.0

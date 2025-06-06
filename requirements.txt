@@ -1,0 +1,6 @@
+pandas
+requests
+beautifulsoup4
+torch
+scikit-learn
+optuna

@@ -1,0 +1,571 @@
+Character,Kart,Speed,Acceleration,Weight,Handling
+Baby Daisy,Standardbike,15,95,15,75
+Baby Daisy,Rallybike,20,90,15,75
+Baby Daisy,Fintwin,20,90,15,75
+Baby Daisy,Machrocket,25,85,15,75
+Baby Daisy,Babyblooper,30,80,20,70
+Baby Daisy,Blastronautiii,35,80,30,55
+Baby Daisy,Standardkart,35,75,25,65
+Baby Daisy,Plushbuggy,35,75,25,65
+Baby Daisy,Funkydorrie,40,75,35,50
+Baby Daisy,Zoombuggy,40,70,30,60
+Baby Daisy,Rallykart,40,70,30,60
+Baby Daisy,Carpetflyer,40,70,30,60
+Baby Daisy,Roadsterroyale,40,70,30,60
+Baby Daisy,Hotrod,40,70,30,60
+Baby Daisy,W Twinchopper,45,65,25,65
+Baby Daisy,Bighorn,45,60,40,55
+Baby Daisy,Billdozer,45,60,40,55
+Baby Daisy,Tinytitan,50,55,40,55
+Baby Daisy,Bowserbruiser,50,55,40,55
+Baby Peach,Standardbike,15,95,15,75
+Baby Peach,Rallybike,20,90,15,75
+Baby Peach,Fintwin,20,90,15,75
+Baby Peach,Machrocket,25,85,15,75
+Baby Peach,Babyblooper,30,80,20,70
+Baby Peach,Blastronautiii,35,80,30,55
+Baby Peach,Standardkart,35,75,25,65
+Baby Peach,Plushbuggy,35,75,25,65
+Baby Peach,Funkydorrie,40,75,35,50
+Baby Peach,Zoombuggy,40,70,30,60
+Baby Peach,Rallykart,40,70,30,60
+Baby Peach,Carpetflyer,40,70,30,60
+Baby Peach,Roadsterroyale,40,70,30,60
+Baby Peach,Hotrod,40,70,30,60
+Baby Peach,W Twinchopper,45,65,25,65
+Baby Peach,Bighorn,45,60,40,55
+Baby Peach,Billdozer,45,60,40,55
+Baby Peach,Tinytitan,50,55,40,55
+Baby Peach,Bowserbruiser,50,55,40,55
+Baby Luigi,Standardbike,16,94,16,74
+Baby Luigi,Rallybike,21,88,17,74
+Baby Luigi,Fintwin,21,88,17,74
+Baby Luigi,Machrocket,26,83,17,74
+Baby Luigi,Babyblooper,31,78,22,69
+Baby Luigi,Blastronautiii,36,78,32,54
+Baby Luigi,Standardkart,36,73,27,64
+Baby Luigi,Plushbuggy,36,73,27,64
+Baby Luigi,Funkydorrie,41,74,36,49
+Baby Luigi,Zoombuggy,41,69,31,59
+Baby Luigi,Rallykart,41,69,31,59
+Baby Luigi,Carpetflyer,41,69,31,59
+Baby Luigi,Roadsterroyale,41,69,31,59
+Baby Luigi,Hotrod,41,69,31,59
+Baby Luigi,W Twinchopper,46,63,27,64
+Baby Luigi,Bighorn,46,59,41,54
+Baby Luigi,Billdozer,46,59,41,54
+Baby Luigi,Tinytitan,51,54,41,54
+Baby Luigi,Bowserbruiser,51,54,41,54
+Baby Mario,Standardbike,16,94,16,74
+Baby Mario,Rallybike,21,88,17,74
+Baby Mario,Fintwin,21,88,17,74
+Baby Mario,Machrocket,26,83,17,74
+Baby Mario,Babyblooper,31,78,22,69
+Baby Mario,Blastronautiii,36,78,32,54
+Baby Mario,Standardkart,36,73,27,64
+Baby Mario,Plushbuggy,36,73,27,64
+Baby Mario,Funkydorrie,41,74,36,49
+Baby Mario,Zoombuggy,41,69,31,59
+Baby Mario,Rallykart,41,69,31,59
+Baby Mario,Carpetflyer,41,69,31,59
+Baby Mario,Roadsterroyale,41,69,31,59
+Baby Mario,Hotrod,41,69,31,59
+Baby Mario,W Twinchopper,46,63,27,64
+Baby Mario,Bighorn,46,59,41,54
+Baby Mario,Billdozer,46,59,41,54
+Baby Mario,Tinytitan,51,54,41,54
+Baby Mario,Bowserbruiser,51,54,41,54
+Baby Rosalina,Standardbike,16,94,16,74
+Baby Rosalina,Rallybike,21,88,17,74
+Baby Rosalina,Fintwin,21,88,17,74
+Baby Rosalina,Machrocket,26,83,17,74
+Baby Rosalina,Babyblooper,31,78,22,69
+Baby Rosalina,Blastronautiii,36,78,32,54
+Baby Rosalina,Standardkart,36,73,27,64
+Baby Rosalina,Plushbuggy,36,73,27,64
+Baby Rosalina,Funkydorrie,41,74,36,49
+Baby Rosalina,Zoombuggy,41,69,31,59
+Baby Rosalina,Rallykart,41,69,31,59
+Baby Rosalina,Carpetflyer,41,69,31,59
+Baby Rosalina,Roadsterroyale,41,69,31,59
+Baby Rosalina,Hotrod,41,69,31,59
+Baby Rosalina,W Twinchopper,46,63,27,64
+Baby Rosalina,Bighorn,46,59,41,54
+Baby Rosalina,Billdozer,46,59,41,54
+Baby Rosalina,Tinytitan,51,54,41,54
+Baby Rosalina,Bowserbruiser,51,54,41,54
+Dry Bones,Standardbike,16,94,16,74
+Dry Bones,Rallybike,21,88,17,74
+Dry Bones,Fintwin,21,88,17,74
+Dry Bones,Machrocket,26,83,17,74
+Dry Bones,Babyblooper,31,78,22,69
+Dry Bones,Blastronautiii,36,78,32,54
+Dry Bones,Standardkart,36,73,27,64
+Dry Bones,Plushbuggy,36,73,27,64
+Dry Bones,Funkydorrie,41,74,36,49
+Dry Bones,Zoombuggy,41,69,31,59
+Dry Bones,Rallykart,41,69,31,59
+Dry Bones,Carpetflyer,41,69,31,59
+Dry Bones,Roadsterroyale,41,69,31,59
+Dry Bones,Hotrod,41,69,31,59
+Dry Bones,W Twinchopper,46,63,27,64
+Dry Bones,Bighorn,46,59,41,54
+Dry Bones,Billdozer,46,59,41,54
+Dry Bones,Tinytitan,51,54,41,54
+Dry Bones,Bowserbruiser,51,54,41,54
+Goomba,Standardbike,16,94,16,74
+Goomba,Rallybike,21,88,17,74
+Goomba,Fintwin,21,88,17,74
+Goomba,Machrocket,26,83,17,74
+Goomba,Babyblooper,31,78,22,69
+Goomba,Blastronautiii,36,78,32,54
+Goomba,Standardkart,36,73,27,64
+Goomba,Plushbuggy,36,73,27,64
+Goomba,Funkydorrie,41,74,36,49
+Goomba,Zoombuggy,41,69,31,59
+Goomba,Rallykart,41,69,31,59
+Goomba,Carpetflyer,41,69,31,59
+Goomba,Roadsterroyale,41,69,31,59
+Goomba,Hotrod,41,69,31,59
+Goomba,W Twinchopper,46,63,27,64
+Goomba,Bighorn,46,59,41,54
+Goomba,Billdozer,46,59,41,54
+Goomba,Tinytitan,51,54,41,54
+Goomba,Bowserbruiser,51,54,41,54
+Koopa,Standardbike,19,89,21,71
+Koopa,Rallybike,24,84,21,71
+Koopa,Fintwin,24,84,21,71
+Koopa,Machrocket,29,79,21,71
+Koopa,Babyblooper,34,74,26,66
+Koopa,Blastronautiii,39,74,36,51
+Koopa,Standardkart,39,69,31,61
+Koopa,Plushbuggy,39,69,31,61
+Koopa,Funkydorrie,44,69,41,46
+Koopa,Zoombuggy,44,65,35,57
+Koopa,Rallykart,44,65,35,57
+Koopa,Carpetflyer,44,65,35,57
+Koopa,Roadsterroyale,44,65,35,57
+Koopa,Hotrod,44,65,35,57
+Koopa,W Twinchopper,49,59,31,61
+Koopa,Bighorn,49,55,45,52
+Koopa,Billdozer,49,55,45,52
+Koopa,Tinytitan,54,50,45,52
+Koopa,Bowserbruiser,54,50,45,52
+Lakitu,Standardbike,19,89,21,71
+Lakitu,Rallybike,24,84,21,71
+Lakitu,Fintwin,24,84,21,71
+Lakitu,Machrocket,29,79,21,71
+Lakitu,Babyblooper,34,74,26,66
+Lakitu,Blastronautiii,39,74,36,51
+Lakitu,Standardkart,39,69,31,61
+Lakitu,Plushbuggy,39,69,31,61
+Lakitu,Funkydorrie,44,69,41,46
+Lakitu,Zoombuggy,44,65,35,57
+Lakitu,Rallykart,44,65,35,57
+Lakitu,Carpetflyer,44,65,35,57
+Lakitu,Roadsterroyale,44,65,35,57
+Lakitu,Hotrod,44,65,35,57
+Lakitu,W Twinchopper,49,59,31,61
+Lakitu,Bighorn,49,55,45,52
+Lakitu,Billdozer,49,55,45,52
+Lakitu,Tinytitan,54,50,45,52
+Lakitu,Bowserbruiser,54,50,45,52
+Nabbit,Standardbike,19,89,21,71
+Nabbit,Rallybike,24,84,21,71
+Nabbit,Fintwin,24,84,21,71
+Nabbit,Machrocket,29,79,21,71
+Nabbit,Babyblooper,34,74,26,66
+Nabbit,Blastronautiii,39,74,36,51
+Nabbit,Standardkart,39,69,31,61
+Nabbit,Plushbuggy,39,69,31,61
+Nabbit,Funkydorrie,44,69,41,46
+Nabbit,Zoombuggy,44,65,35,57
+Nabbit,Rallykart,44,65,35,57
+Nabbit,Carpetflyer,44,65,35,57
+Nabbit,Roadsterroyale,44,65,35,57
+Nabbit,Hotrod,44,65,35,57
+Nabbit,W Twinchopper,49,59,31,61
+Nabbit,Bighorn,49,55,45,52
+Nabbit,Billdozer,49,55,45,52
+Nabbit,Tinytitan,54,50,45,52
+Nabbit,Bowserbruiser,54,50,45,52
+Shy Guy,Standardbike,19,89,21,71
+Shy Guy,Rallybike,24,84,21,71
+Shy Guy,Fintwin,24,84,21,71
+Shy Guy,Machrocket,29,79,21,71
+Shy Guy,Babyblooper,34,74,26,66
+Shy Guy,Blastronautiii,39,74,36,51
+Shy Guy,Standardkart,39,69,31,61
+Shy Guy,Plushbuggy,39,69,31,61
+Shy Guy,Funkydorrie,44,69,41,46
+Shy Guy,Zoombuggy,44,65,35,57
+Shy Guy,Rallykart,44,65,35,57
+Shy Guy,Carpetflyer,44,65,35,57
+Shy Guy,Roadsterroyale,44,65,35,57
+Shy Guy,Hotrod,44,65,35,57
+Shy Guy,W Twinchopper,49,59,31,61
+Shy Guy,Bighorn,49,55,45,52
+Shy Guy,Billdozer,49,55,45,52
+Shy Guy,Tinytitan,54,50,45,52
+Shy Guy,Bowserbruiser,54,50,45,52
+Toad,Standardbike,19,89,21,71
+Toad,Rallybike,24,84,21,71
+Toad,Fintwin,24,84,21,71
+Toad,Machrocket,29,79,21,71
+Toad,Babyblooper,34,74,26,66
+Toad,Blastronautiii,39,74,36,51
+Toad,Standardkart,39,69,31,61
+Toad,Plushbuggy,39,69,31,61
+Toad,Funkydorrie,44,69,41,46
+Toad,Zoombuggy,44,65,35,57
+Toad,Rallykart,44,65,35,57
+Toad,Carpetflyer,44,65,35,57
+Toad,Roadsterroyale,44,65,35,57
+Toad,Hotrod,44,65,35,57
+Toad,W Twinchopper,49,59,31,61
+Toad,Bighorn,49,55,45,52
+Toad,Billdozer,49,55,45,52
+Toad,Tinytitan,54,50,45,52
+Toad,Bowserbruiser,54,50,45,52
+Toadette,Standardbike,19,89,21,71
+Toadette,Rallybike,24,84,21,71
+Toadette,Fintwin,24,84,21,71
+Toadette,Machrocket,29,79,21,71
+Toadette,Babyblooper,34,74,26,66
+Toadette,Blastronautiii,39,74,36,51
+Toadette,Standardkart,39,69,31,61
+Toadette,Plushbuggy,39,69,31,61
+Toadette,Funkydorrie,44,69,41,46
+Toadette,Zoombuggy,44,65,35,57
+Toadette,Rallykart,44,65,35,57
+Toadette,Carpetflyer,44,65,35,57
+Toadette,Roadsterroyale,44,65,35,57
+Toadette,Hotrod,44,65,35,57
+Toadette,W Twinchopper,49,59,31,61
+Toadette,Bighorn,49,55,45,52
+Toadette,Billdozer,49,55,45,52
+Toadette,Tinytitan,54,50,45,52
+Toadette,Bowserbruiser,54,50,45,52
+Bowser Jr,Standardbike,26,81,29,64
+Bowser Jr,Rallybike,31,75,30,64
+Bowser Jr,Fintwin,31,75,30,64
+Bowser Jr,Machrocket,36,70,30,64
+Bowser Jr,Babyblooper,41,65,35,59
+Bowser Jr,Blastronautiii,45,66,44,44
+Bowser Jr,Standardkart,47,60,40,54
+Bowser Jr,Plushbuggy,47,60,40,54
+Bowser Jr,Funkydorrie,50,61,49,40
+Bowser Jr,Zoombuggy,51,56,44,49
+Bowser Jr,Rallykart,51,56,44,49
+Bowser Jr,Carpetflyer,51,56,44,49
+Bowser Jr,Roadsterroyale,51,56,44,49
+Bowser Jr,Hotrod,51,56,44,49
+Bowser Jr,W Twinchopper,55,51,39,55
+Bowser Jr,Bighorn,56,46,54,44
+Bowser Jr,Billdozer,56,46,54,44
+Bowser Jr,Tinytitan,61,41,54,44
+Bowser Jr,Bowserbruiser,61,41,54,44
+Daisy,Standardbike,26,81,29,64
+Daisy,Rallybike,31,75,30,64
+Daisy,Fintwin,31,75,30,64
+Daisy,Machrocket,36,70,30,64
+Daisy,Babyblooper,41,65,35,59
+Daisy,Blastronautiii,45,66,44,44
+Daisy,Standardkart,47,60,40,54
+Daisy,Plushbuggy,47,60,40,54
+Daisy,Funkydorrie,50,61,49,40
+Daisy,Zoombuggy,51,56,44,49
+Daisy,Rallykart,51,56,44,49
+Daisy,Carpetflyer,51,56,44,49
+Daisy,Roadsterroyale,51,56,44,49
+Daisy,Hotrod,51,56,44,49
+Daisy,W Twinchopper,55,51,39,55
+Daisy,Bighorn,56,46,54,44
+Daisy,Billdozer,56,46,54,44
+Daisy,Tinytitan,61,41,54,44
+Daisy,Bowserbruiser,61,41,54,44
+Peach,Standardbike,26,81,29,64
+Peach,Rallybike,31,75,30,64
+Peach,Fintwin,31,75,30,64
+Peach,Machrocket,36,70,30,64
+Peach,Babyblooper,41,65,35,59
+Peach,Blastronautiii,45,66,44,44
+Peach,Standardkart,47,60,40,54
+Peach,Plushbuggy,47,60,40,54
+Peach,Funkydorrie,50,61,49,40
+Peach,Zoombuggy,51,56,44,49
+Peach,Rallykart,51,56,44,49
+Peach,Carpetflyer,51,56,44,49
+Peach,Roadsterroyale,51,56,44,49
+Peach,Hotrod,51,56,44,49
+Peach,W Twinchopper,55,51,39,55
+Peach,Bighorn,56,46,54,44
+Peach,Billdozer,56,46,54,44
+Peach,Tinytitan,61,41,54,44
+Peach,Bowserbruiser,61,41,54,44
+Yoshi,Standardbike,26,81,29,64
+Yoshi,Rallybike,31,75,30,64
+Yoshi,Fintwin,31,75,30,64
+Yoshi,Machrocket,36,70,30,64
+Yoshi,Babyblooper,41,65,35,59
+Yoshi,Blastronautiii,45,66,44,44
+Yoshi,Standardkart,47,60,40,54
+Yoshi,Plushbuggy,47,60,40,54
+Yoshi,Funkydorrie,50,61,49,40
+Yoshi,Zoombuggy,51,56,44,49
+Yoshi,Rallykart,51,56,44,49
+Yoshi,Carpetflyer,51,56,44,49
+Yoshi,Roadsterroyale,51,56,44,49
+Yoshi,Hotrod,51,56,44,49
+Yoshi,W Twinchopper,55,51,39,55
+Yoshi,Bighorn,56,46,54,44
+Yoshi,Billdozer,56,46,54,44
+Yoshi,Tinytitan,61,41,54,44
+Yoshi,Bowserbruiser,61,41,54,44
+Birdo,Standardbike,30,75,35,60
+Birdo,Rallybike,35,70,35,60
+Birdo,Fintwin,35,70,35,60
+Birdo,Machrocket,40,65,35,60
+Birdo,Babyblooper,45,60,40,55
+Birdo,Blastronautiii,50,60,50,40
+Birdo,Standardkart,50,55,45,50
+Birdo,Plushbuggy,50,55,45,50
+Birdo,Funkydorrie,55,55,55,35
+Birdo,Zoombuggy,55,50,50,45
+Birdo,Rallykart,55,50,50,45
+Birdo,Carpetflyer,55,50,50,45
+Birdo,Roadsterroyale,55,50,50,45
+Birdo,Hotrod,55,50,50,45
+Birdo,W Twinchopper,60,45,45,50
+Birdo,Bighorn,60,40,60,40
+Birdo,Billdozer,60,40,60,40
+Birdo,Tinytitan,65,35,60,40
+Birdo,Bowserbruiser,65,35,60,40
+Hammer Bro,Standardbike,30,75,35,60
+Hammer Bro,Rallybike,35,70,35,60
+Hammer Bro,Fintwin,35,70,35,60
+Hammer Bro,Machrocket,40,65,35,60
+Hammer Bro,Babyblooper,45,60,40,55
+Hammer Bro,Blastronautiii,50,60,50,40
+Hammer Bro,Standardkart,50,55,45,50
+Hammer Bro,Plushbuggy,50,55,45,50
+Hammer Bro,Funkydorrie,55,55,55,35
+Hammer Bro,Zoombuggy,55,50,50,45
+Hammer Bro,Rallykart,55,50,50,45
+Hammer Bro,Carpetflyer,55,50,50,45
+Hammer Bro,Roadsterroyale,55,50,50,45
+Hammer Bro,Hotrod,55,50,50,45
+Hammer Bro,W Twinchopper,60,45,45,50
+Hammer Bro,Bighorn,60,40,60,40
+Hammer Bro,Billdozer,60,40,60,40
+Hammer Bro,Tinytitan,65,35,60,40
+Hammer Bro,Bowserbruiser,65,35,60,40
+Luigi,Standardbike,30,75,35,60
+Luigi,Rallybike,35,70,35,60
+Luigi,Fintwin,35,70,35,60
+Luigi,Machrocket,40,65,35,60
+Luigi,Babyblooper,45,60,40,55
+Luigi,Blastronautiii,50,60,50,40
+Luigi,Standardkart,50,55,45,50
+Luigi,Plushbuggy,50,55,45,50
+Luigi,Funkydorrie,55,55,55,35
+Luigi,Zoombuggy,55,50,50,45
+Luigi,Rallykart,55,50,50,45
+Luigi,Carpetflyer,55,50,50,45
+Luigi,Roadsterroyale,55,50,50,45
+Luigi,Hotrod,55,50,50,45
+Luigi,W Twinchopper,60,45,45,50
+Luigi,Bighorn,60,40,60,40
+Luigi,Billdozer,60,40,60,40
+Luigi,Tinytitan,65,35,60,40
+Luigi,Bowserbruiser,65,35,60,40
+Mario,Standardbike,30,75,35,60
+Mario,Rallybike,35,70,35,60
+Mario,Fintwin,35,70,35,60
+Mario,Machrocket,40,65,35,60
+Mario,Babyblooper,45,60,40,55
+Mario,Blastronautiii,50,60,50,40
+Mario,Standardkart,50,55,45,50
+Mario,Plushbuggy,50,55,45,50
+Mario,Funkydorrie,55,55,55,35
+Mario,Zoombuggy,55,50,50,45
+Mario,Rallykart,55,50,50,45
+Mario,Carpetflyer,55,50,50,45
+Mario,Roadsterroyale,55,50,50,45
+Mario,Hotrod,55,50,50,45
+Mario,W Twinchopper,60,45,45,50
+Mario,Bighorn,60,40,60,40
+Mario,Billdozer,60,40,60,40
+Mario,Tinytitan,65,35,60,40
+Mario,Bowserbruiser,65,35,60,40
+Pauline,Standardbike,30,75,35,60
+Pauline,Rallybike,35,70,35,60
+Pauline,Fintwin,35,70,35,60
+Pauline,Machrocket,40,65,35,60
+Pauline,Babyblooper,45,60,40,55
+Pauline,Blastronautiii,50,60,50,40
+Pauline,Standardkart,50,55,45,50
+Pauline,Plushbuggy,50,55,45,50
+Pauline,Funkydorrie,55,55,55,35
+Pauline,Zoombuggy,55,50,50,45
+Pauline,Rallykart,55,50,50,45
+Pauline,Carpetflyer,55,50,50,45
+Pauline,Roadsterroyale,55,50,50,45
+Pauline,Hotrod,55,50,50,45
+Pauline,W Twinchopper,60,45,45,50
+Pauline,Bighorn,60,40,60,40
+Pauline,Billdozer,60,40,60,40
+Pauline,Tinytitan,65,35,60,40
+Pauline,Bowserbruiser,65,35,60,40
+King Boo,Standardbike,35,70,40,55
+King Boo,Rallybike,40,65,40,55
+King Boo,Fintwin,40,65,40,55
+King Boo,Machrocket,44,61,40,56
+King Boo,Babyblooper,49,56,44,51
+King Boo,Blastronautiii,55,55,55,35
+King Boo,Standardkart,54,51,49,46
+King Boo,Plushbuggy,54,51,49,46
+King Boo,Funkydorrie,60,50,60,30
+King Boo,Zoombuggy,59,45,55,40
+King Boo,Rallykart,59,45,55,40
+King Boo,Carpetflyer,59,45,55,40
+King Boo,Roadsterroyale,59,45,55,40
+King Boo,Hotrod,59,45,55,40
+King Boo,W Twinchopper,64,41,49,46
+King Boo,Bighorn,64,35,64,36
+King Boo,Billdozer,64,35,64,36
+King Boo,Tinytitan,69,31,64,36
+King Boo,Bowserbruiser,69,31,64,36
+Rosalina,Standardbike,35,70,40,55
+Rosalina,Rallybike,40,65,40,55
+Rosalina,Fintwin,40,65,40,55
+Rosalina,Machrocket,44,61,40,56
+Rosalina,Babyblooper,49,56,44,51
+Rosalina,Blastronautiii,55,55,55,35
+Rosalina,Standardkart,54,51,49,46
+Rosalina,Plushbuggy,54,51,49,46
+Rosalina,Funkydorrie,60,50,60,30
+Rosalina,Zoombuggy,59,45,55,40
+Rosalina,Rallykart,59,45,55,40
+Rosalina,Carpetflyer,59,45,55,40
+Rosalina,Roadsterroyale,59,45,55,40
+Rosalina,Hotrod,59,45,55,40
+Rosalina,W Twinchopper,64,41,49,46
+Rosalina,Bighorn,64,35,64,36
+Rosalina,Billdozer,64,35,64,36
+Rosalina,Tinytitan,69,31,64,36
+Rosalina,Bowserbruiser,69,31,64,36
+Cow,Standardbike,42,63,47,48
+Cow,Rallybike,47,58,47,48
+Cow,Fintwin,47,58,47,48
+Cow,Machrocket,52,53,47,48
+Cow,Babyblooper,57,48,51,43
+Cow,Blastronautiii,62,48,62,29
+Cow,Standardkart,62,43,56,39
+Cow,Plushbuggy,62,43,56,39
+Cow,Funkydorrie,67,43,67,23
+Cow,Zoombuggy,67,38,61,33
+Cow,Rallykart,67,38,61,33
+Cow,Carpetflyer,67,38,61,33
+Cow,Roadsterroyale,67,38,61,33
+Cow,Hotrod,67,38,61,33
+Cow,W Twinchopper,71,34,56,39
+Cow,Bighorn,71,29,71,29
+Cow,Billdozer,71,29,71,29
+Cow,Tinytitan,76,24,71,29
+Cow,Bowserbruiser,76,24,71,29
+Donkey Kong,Standardbike,42,63,47,48
+Donkey Kong,Rallybike,47,58,47,48
+Donkey Kong,Fintwin,47,58,47,48
+Donkey Kong,Machrocket,52,53,47,48
+Donkey Kong,Babyblooper,57,48,51,43
+Donkey Kong,Blastronautiii,62,48,62,29
+Donkey Kong,Standardkart,62,43,56,39
+Donkey Kong,Plushbuggy,62,43,56,39
+Donkey Kong,Funkydorrie,67,43,67,23
+Donkey Kong,Zoombuggy,67,38,61,33
+Donkey Kong,Rallykart,67,38,61,33
+Donkey Kong,Carpetflyer,67,38,61,33
+Donkey Kong,Roadsterroyale,67,38,61,33
+Donkey Kong,Hotrod,67,38,61,33
+Donkey Kong,W Twinchopper,71,34,56,39
+Donkey Kong,Bighorn,71,29,71,29
+Donkey Kong,Billdozer,71,29,71,29
+Donkey Kong,Tinytitan,76,24,71,29
+Donkey Kong,Bowserbruiser,76,24,71,29
+Waluigi,Standardbike,42,63,47,48
+Waluigi,Rallybike,47,58,47,48
+Waluigi,Fintwin,47,58,47,48
+Waluigi,Machrocket,52,53,47,48
+Waluigi,Babyblooper,57,48,51,43
+Waluigi,Blastronautiii,62,48,62,29
+Waluigi,Standardkart,62,43,56,39
+Waluigi,Plushbuggy,62,43,56,39
+Waluigi,Funkydorrie,67,43,67,23
+Waluigi,Zoombuggy,67,38,61,33
+Waluigi,Rallykart,67,38,61,33
+Waluigi,Carpetflyer,67,38,61,33
+Waluigi,Roadsterroyale,67,38,61,33
+Waluigi,Hotrod,67,38,61,33
+Waluigi,W Twinchopper,71,34,56,39
+Waluigi,Bighorn,71,29,71,29
+Waluigi,Billdozer,71,29,71,29
+Waluigi,Tinytitan,76,24,71,29
+Waluigi,Bowserbruiser,76,24,71,29
+Wario,Standardbike,42,63,47,48
+Wario,Rallybike,47,58,47,48
+Wario,Fintwin,47,58,47,48
+Wario,Machrocket,52,53,47,48
+Wario,Babyblooper,57,48,51,43
+Wario,Blastronautiii,62,48,62,29
+Wario,Standardkart,62,43,56,39
+Wario,Plushbuggy,62,43,56,39
+Wario,Funkydorrie,67,43,67,23
+Wario,Zoombuggy,67,38,61,33
+Wario,Rallykart,67,38,61,33
+Wario,Carpetflyer,67,38,61,33
+Wario,Roadsterroyale,67,38,61,33
+Wario,Hotrod,67,38,61,33
+Wario,W Twinchopper,71,34,56,39
+Wario,Bighorn,71,29,71,29
+Wario,Billdozer,71,29,71,29
+Wario,Tinytitan,76,24,71,29
+Wario,Bowserbruiser,76,24,71,29
+Wiggler,Standardbike,42,63,47,48
+Wiggler,Rallybike,47,58,47,48
+Wiggler,Fintwin,47,58,47,48
+Wiggler,Machrocket,52,53,47,48
+Wiggler,Babyblooper,57,48,51,43
+Wiggler,Blastronautiii,62,48,62,29
+Wiggler,Standardkart,62,43,56,39
+Wiggler,Plushbuggy,62,43,56,39
+Wiggler,Funkydorrie,67,43,67,23
+Wiggler,Zoombuggy,67,38,61,33
+Wiggler,Rallykart,67,38,61,33
+Wiggler,Carpetflyer,67,38,61,33
+Wiggler,Roadsterroyale,67,38,61,33
+Wiggler,Hotrod,67,38,61,33
+Wiggler,W Twinchopper,71,34,56,39
+Wiggler,Bighorn,71,29,71,29
+Wiggler,Billdozer,71,29,71,29
+Wiggler,Tinytitan,76,24,71,29
+Wiggler,Bowserbruiser,76,24,71,29
+Bowser,Standardbike,45,60,50,45
+Bowser,Rallybike,50,55,50,45
+Bowser,Fintwin,50,55,50,45
+Bowser,Machrocket,55,50,50,45
+Bowser,Babyblooper,60,45,55,40
+Bowser,Blastronautiii,65,45,65,25
+Bowser,Standardkart,65,40,60,35
+Bowser,Plushbuggy,65,40,60,35
+Bowser,Funkydorrie,70,40,70,20
+Bowser,Zoombuggy,70,35,65,30
+Bowser,Rallykart,70,35,65,30
+Bowser,Carpetflyer,70,35,65,30
+Bowser,Roadsterroyale,70,35,65,30
+Bowser,Hotrod,70,35,65,30
+Bowser,W Twinchopper,75,30,60,35
+Bowser,Bighorn,75,25,75,25
+Bowser,Billdozer,75,25,75,25
+Bowser,Tinytitan,80,20,75,25
+Bowser,Bowserbruiser,80,20,75,25
